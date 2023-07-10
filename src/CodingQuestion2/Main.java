@@ -9,8 +9,6 @@ package CodingQuestion2;
 public  class Main{
     public static void main(String[] args) {
         Triangle triangle=new Triangle();
-ShapeCalcualtor shapeCalcualtor=new
-        ShapeCalcualtor(Shape triangle);
 
     }
 }
